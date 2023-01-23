@@ -58,7 +58,7 @@
 
 **- 날에 분포하중 + 집중하중이 작용(추진 시 뒷발) + 고정점 2개 추가**
 
-![image](https://user-images.githubusercontent.com/108641325/213980535-d0091dd4-0d53-429a-9d28-7bee8d3f7e7e.png)
+![image](https://user-images.githubusercontent.com/108641325/213985543-34d95a03-29fd-4fe9-88ef-cb854dfb78e0.png)
 
 - nelx:100, nely:10, Distributed load = 1, Concentrated load = 102
 - top_201702390_concentratedload2(100, 10, 0.7, 3.0, 1.2)
@@ -71,7 +71,7 @@
 
 **- 날에 '대각선 방향'(45도)의 분포하중이 작용 + 고정점 2개 추가(결승선 통과시 앞 발을 쭉 내밀 때)**
 
-![image](https://user-images.githubusercontent.com/108641325/213982681-6742a20b-cb23-4b96-a914-bab6f0372611.png)
+![image](https://user-images.githubusercontent.com/108641325/213985905-51edaf49-1ef3-4a84-af07-1f757d0581f5.png)
 
 - nelx:100, nely:10, Distributed load = 1(x방향 힘의 크기는 1*cos(45) / y방향 힘의 크기는 1*sin(45))
 - top_201702390_distributedload2(100, 10, 0.7, 3.0, 1.2)
