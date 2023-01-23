@@ -73,7 +73,7 @@
 
 ![image](https://user-images.githubusercontent.com/108641325/213985905-51edaf49-1ef3-4a84-af07-1f757d0581f5.png)
 
-- nelx:100, nely:10, Distributed load = 1(x방향 힘의 크기는 1*cos(45) / y방향 힘의 크기는 1*sin(45))
+- nelx:100, nely:10, Distributed load = 1(x방향 힘의 크기는 1*cos(45). y방향 힘의 크기는 1*sin(45))
 - top_201702390_distributedload2(100, 10, 0.7, 3.0, 1.2)
 
 **=> 결과물**
